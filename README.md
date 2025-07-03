@@ -21,7 +21,7 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 
 ---
 
-## 🏁 MotoGp 2024
+## 🏁 MotoGp 24
 
 <div align="center">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581700/header.jpg?t=1746000421" alt="MotoGP Banner" style="width:100%; border-radius:10px;" />
@@ -32,8 +32,7 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 - **Best Time Lap** 1.09.45  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7zdcQsAXKaME3/giphy.gif" width="350" />
-  <img src="https://media.giphy.com/media/WviFiaGoytWBW/giphy.gif" width="300" />
+  <img src="https://youtu.be/5tvq9gTNmO4" width="350" />
 </p>
 
 ---
@@ -59,4 +58,5 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 ---
 
 > _"Failure is the first step to success!"_ 🚀
+---
 > _"So, let's build self confidence"_
