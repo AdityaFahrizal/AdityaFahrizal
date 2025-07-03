@@ -33,16 +33,20 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 
 ---
 ### 📊 Statistik GitHub
+
 <p align="center">
 
-<!-- Snake Contribution Animation -->
-<img src="https://github.com/adityafahrizal/adityafahrizal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<!-- Bar Chart Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityafahrizal&layout=donut&langs_count=6&theme=radical&hide_border=true" width="45%" />
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityafahrizal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+<!-- Metrics: Contributions by Repo -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityafahrizal&theme=tokyonight" width="45%" />
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityafahrizal&theme=react-dark&hide_border=true&area=true" width="98%" />
+<!-- Metrics: Commits per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityafahrizal&theme=tokyonight" width="45%" />
+
+<!-- Metrics: Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityafahrizal&theme=tokyonight" width="95%" />
 
 </p>
 
