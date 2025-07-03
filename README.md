@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#e6f0ff; padding: 20px; border-radius: 10px;">
 
 # 👋 Hi, I'm **Aditya Fahrizal**  
-🎮 _IT Student • Mobile Dev • Automotive Enthusiast • Game Dev_
+_Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaFahrizal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/AdityaFahrizal)
