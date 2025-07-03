@@ -28,7 +28,7 @@
 - **Best Time Lap** 1.09.45  
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motogp.com%2Fid%2Fnews%2F2024%2F03%2F14%2Fvideo-game-motogp24-akan-segera-dirilis%2F492163&psig=AOvVaw2kAUPzprNK99Lw2smrwFBr&ust=1751639457160000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODy9vP1oI4DFQAAAAAdAAAAABAU" alt="MotoGP Banner" style="width:100%; border-radius:10px;" />
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581700/header.jpg?t=1746000421" alt="MotoGP Banner" style="width:100%; border-radius:10px;" />
 </div>
 
 ---
