@@ -32,7 +32,7 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 - **Best Time Lap** 1.09.45  
 
 <p align="center">
-  <img src="https://your-gif-link-here.gif" alt="MotoGP Gameplay GIF" width="350" />
+ <img src="https://media.giphy.com/media/WviFiaGoytWBW/giphy.gif" width="400">
 </p>
 ---
 ### 📊 Statistik GitHub
