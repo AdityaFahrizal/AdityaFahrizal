@@ -23,13 +23,18 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 
 ## 🏁 MotoGp 2024
 
+<div align="center">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581700/header.jpg?t=1746000421" alt="MotoGP Banner" style="width:100%; border-radius:10px;" />
+</div>
+
 - **Favorite Circuit** Mugelo Circuit  
 - **Best Racer** Marc Márquez  
 - **Best Time Lap** 1.09.45  
 
-<div align="center">
-  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581700/header.jpg?t=1746000421" alt="MotoGP Banner" style="width:100%; border-radius:10px;" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/IeRdg7zdcQsAXKaME3/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/WviFiaGoytWBW/giphy.gif" width="300" />
+</p>
 
 ---
 ### 📊 Statistik GitHub
