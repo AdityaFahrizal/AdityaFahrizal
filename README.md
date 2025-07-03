@@ -21,27 +21,26 @@
 
 ---
 
-## 👑 Best Project: **2D Topdown RPG games**
-
-
-
----
-
 ## 🏁 MotoGp 2024
 
-- **Favorite Circuit** Mugelo Circuit
-- **Best Racer** Marc Márquez
-- **Best Time Lap** 1.09.45
+- **Favorite Circuit** Mugelo Circuit  
+- **Best Racer** Marc Márquez  
+- **Best Time Lap** 1.09.45  
+
+<div align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motogp.com%2Fid%2Fnews%2F2024%2F03%2F14%2Fvideo-game-motogp24-akan-segera-dirilis%2F492163&psig=AOvVaw2kAUPzprNK99Lw2smrwFBr&ust=1751639457160000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODy9vP1oI4DFQAAAAAdAAAAABAU" alt="MotoGP Banner" style="width:100%; border-radius:10px;" />
+</div>
 
 ---
 
 ## 💻 Skills
 
+
 | Skill      |                  |
 |------------|------------------|
 | 🌐 Web     | ██████████░░ 80% |
-| 🎮 Game    | █████████░░░ 50% |
-| 📱 Mobile   | ███████░░░░ 60%  |
+| 📱 Mobile    | █████████░░░ 60% |
+| 🎮 Game   | ███████░░░░ 50%  |
 | 🥽 VR      | █████░░░░░░ 40%  |
 
 <p>
