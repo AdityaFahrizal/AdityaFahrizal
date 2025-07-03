@@ -52,11 +52,5 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaFahrizal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFahrizal&layout=compact&theme=tokyonight)
-
----
-
 > _"Failure is the first step to success!"_ 🚀
+> _"So, let's build self confidence"_
