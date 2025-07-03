@@ -21,7 +21,7 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 
 ---
 
-## 🏁 MotoGp 24
+## Favorite Games MotoGp 24
 
 <div align="center">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581700/header.jpg?t=1746000421" alt="MotoGP Banner" style="width:100%; border-radius:10px;" />
@@ -32,7 +32,7 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 - **Best Time Lap** 1.09.45  
 
 <p align="center">
-  <img src="https://abs.twimg.com/media/FILENAME.gif" width="400" alt="MotoGP Mugello Onboard GIF" />
+  <img src="https://link-direct-gif-kamu.gif" width="400" alt="MotoGP Mugello Slow Motion Cornering" />
 </p>
 
 
