@@ -32,8 +32,9 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 - **Best Time Lap** 1.09.45  
 
 <p align="center">
-  <img src="https://link-direct-gif-kamu.gif" width="400" alt="MotoGP Mugello Slow Motion Cornering" />
+  <img src="https://i.imgur.com/DKttWCm.gif" alt="MotoGP Mugello Slowmo Cornering" width="400" />
 </p>
+
 
 
 ---
