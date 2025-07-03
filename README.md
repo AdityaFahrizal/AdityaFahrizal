@@ -32,23 +32,20 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
 </div>
 
 ---
+### 📊 Statistik GitHub
+<p align="center">
 
-## 💻 Skills
+<!-- Snake Contribution Animation -->
+<img src="https://github.com/adityafahrizal/adityafahrizal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityafahrizal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 
-| Skill      |                  |
-|------------|------------------|
-| 🌐 Web     | ██████████░░ 80% |
-| 📱 Mobile    | █████████░░░ 60% |
-| 🎮 Game   | ███████░░░░ 50%  |
-| 🥽 VR      | █████░░░░░░ 40%  |
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityafahrizal&theme=react-dark&hide_border=true&area=true" width="98%" />
 
-<p>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
+
 
 ---
 
