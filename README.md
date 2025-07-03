@@ -27,13 +27,14 @@ _Automotive Enthusiast • IT Student •  Mobile Dev• Game Dev_
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581700/header.jpg?t=1746000421" alt="MotoGP Banner" style="width:100%; border-radius:10px;" />
 </div>
 
-- **Favorite Circuit** Mugelo Circuit  
+- **Favorite Circuit** Mugello Circuit 
 - **Best Racer** Marc Márquez  
 - **Best Time Lap** 1.09.45  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7zdcQsAXKaME3/giphy.gif" alt="MotoGP Gameplay GIF" width="350" />
+  <img src="https://abs.twimg.com/media/FILENAME.gif" width="400" alt="MotoGP Mugello Onboard GIF" />
 </p>
+
 
 ---
 ### 📊 Statistik GitHub
